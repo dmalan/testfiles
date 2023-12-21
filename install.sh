@@ -1,4 +1,4 @@
 #!/bin/bash
 
 sudo apt update
-sudo apt install fortune
+sudo apt install --yes fortune
